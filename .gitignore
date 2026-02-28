@@ -48,5 +48,5 @@ build.log
 *.webp
 *.jpg
 *.jpeg
-!public/
+!public/**/*
 !src/
