@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# development tools & references
+.skills/
+DESIGN.md
+build.log
+*.png
+*.webp
+*.jpg
+*.jpeg
+!public/
+!src/
